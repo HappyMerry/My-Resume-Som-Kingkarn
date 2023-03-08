@@ -2,7 +2,7 @@
   "name": "my-resume-som-kingkarn",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://happymerry.github.io/My-Resume-Som-Kingkarn",
+  "homepage": "https://gitname.github.io/My-Resume-Som-Kingkarn",
   "type": "module",
   "scripts": {
     "dev": "vite",

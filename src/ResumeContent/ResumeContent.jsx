@@ -7,11 +7,13 @@ function Content() {
           <li className='about-me'>
             <h2>ABOUT ME</h2>
             <p>
-                Hello! I like coding. I need to be Game Developer in the future. Nice to meet you.</p>
+                Hello! I like coding. I need to be Game Developer in the future. 
+                <br/>Nice to meet you.
+            </p>
           </li>
           <li className='contact'>
             <h2>CONTACT</h2>
-            <p>🍊 858 Samsennok, Huakwang, Bangkok, 10310</p>
+            <p>🍊 123 Sam Sen Nok, Huai Khwang, Bangkok, 10310</p>
             <p>🍊 kingkarn.saipadit@gmail.com</p>
             <p>🍊 +66-922561767</p>     
           </li>

@@ -27,29 +27,31 @@
 .resume-name {
   font-size: 70px;
   position: absolute;
-  top: 30px;
-  left: 540px;
+  top: 5px;
+  left: 660px;
   z-index: 2;
 }
 
 .resume-job {
   position: absolute;
-  top: 220px;
-  left: 650px;
+  top: 200px;
+  left: 750px;
+  z-index: 3;
 }
 
 .resume-detail {
   position: absolute;
   top: 280px;
   left: 800px;
+  z-index: 3;
 }
 
 .resume-image {
   position: absolute;
-  top: 20px;
+  top: 30px;
   left: 200px;
-  width: 380px;
-  height: 400px;
+  width: 480px;
+  height: 450px;
   margin: 20px;
   border-radius: 5px;
 }
@@ -59,7 +61,7 @@
   top: 200px;
   right: 100px;
   width: 200px;
-  height: 100px;
+  height: 200px;
 }
 
 .resume-image-3 {
@@ -67,16 +69,16 @@
   top: 300px;
   left: 170px;
   width: 200px;
-  height: 100px;
+  height: 200px;
   z-index: 2;
 }
 
 .resume-image-4 {
   position: absolute;
-  top: 270px;
-  left: 500px;
+  top: 250px;
+  left: 600px;
   width: 300px;
-  height: 5px;
+  height: 3px;
   z-index: 2;
   border: 10px;
   background-color: hsl(0, 0%, 0%);
@@ -85,8 +87,8 @@
 .resume-image-5 {
   position: absolute;
   top: 500px;
-  left: 210px;
-  width: 5px;
+  left: 220px;
+  width: 3px;
   height: 800px;
   z-index: 2;
   border: 10px;
@@ -96,8 +98,8 @@
 .resume-image-6 {
   position: absolute;
   top: 400px;
-  right: 520px;
-  width: 5px;
+  right: 600px;
+  width: 3px;
   height: 900px;
   z-index: 2;
   border: 10px;
